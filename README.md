@@ -41,8 +41,13 @@ PCB Design:
 
 Case Design:
 
-<img width="891" height="680" alt="image" src="https://github.com/user-attachments/assets/ba6ceffa-994d-4b20-aca4-f0835d491cc5" />
+<img width="763" height="669" alt="image" src="https://github.com/user-attachments/assets/e0042f6a-0eb4-4843-aab9-29807f7466b4" />
 
+<img width="975" height="489" alt="image" src="https://github.com/user-attachments/assets/f4310a8f-e6c9-4787-b09b-3fcba1195161" />
+
+<img width="829" height="797" alt="image" src="https://github.com/user-attachments/assets/e22dfdfd-d2ba-462b-926d-c9421dbb6d94" />
+
+<img width="799" height="785" alt="image" src="https://github.com/user-attachments/assets/94780edd-7045-41af-892a-6d541bd42480" />
 
 
 Materials:
