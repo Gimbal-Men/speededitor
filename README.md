@@ -22,9 +22,8 @@ Designed specifically around DaVinci Resolve shortcuts
 
 📸 Overall Hackpad
 
-Screenshot of the assembled hackpad
+You'll finde a picture when it is finish
 
-(Insert screenshot or rendered image of the full hackpad here)
 
 ⌨️ Input Layout & Functions
 
@@ -70,7 +69,8 @@ The firmware allows complex behavior without exceeding the GPIO limitations of t
 
 Screenshot of the schematic
 
-(Insert screenshot of the full schematic here)
+<img width="1264" height="942" alt="image" src="https://github.com/user-attachments/assets/160d3196-5f00-4c21-aaa8-f3b9b26c60fb" />
+
 
 Notes:
 
@@ -86,7 +86,7 @@ Encoder push buttons integrated into the matrix
 
 Screenshot of the PCB
 
-(Insert screenshot of the PCB layout here)
+<img width="693" height="677" alt="image" src="https://github.com/user-attachments/assets/9b1a631b-dbdc-403c-b866-c458a6194e8d" />
 
 PCB Details:
 
@@ -104,13 +104,11 @@ Designed specifically for easy soldering
 
 Screenshot of the case and assembly view
 
-(Insert exploded view or assembled case screenshot here)
+<img width="891" height="680" alt="image" src="https://github.com/user-attachments/assets/ba6ceffa-994d-4b20-aca4-f0835d491cc5" />
 
 Case Characteristics:
 
 Fully 3D printed (no acrylic or laser-cut parts)
-
-Ergonomic tilt (~10–15°)
 
 Designed for left-hand use
 
@@ -124,29 +122,7 @@ Seeed XIAO RP2040 (through-hole)	1
 MX-style mechanical switches	12
 EC11 rotary encoders	2
 1N4148 diodes (through-hole)	12
-0.91" OLED display	1
-SK6812 MINI-E LEDs	up to 12
 Blank DSA keycaps	12
 M3x16mm screws	4
 M3 heatset inserts	4
 3D printed case parts	1 set
-✅ Competition Requirements Checklist
-
-✔ Approved parts only
-
-✔ Through-hole XIAO RP2040
-
-✔ PCB ≤ 100×100mm
-
-✔ Case ≤ 200×200×100mm
-
-✔ ≤ 16 inputs
-
-✔ 2-layer PCB
-
-✔ Fully 3D printed case
-
-🚀 Conclusion
-
-This hackpad is designed as a practical, real-world editing tool, not just a macro pad.
-By combining a well-thought-out physical layout with intelligent firmware design, it enables fast, precise, and ergonomic editing in DaVinci Resolve.
